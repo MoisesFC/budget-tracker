@@ -35,3 +35,4 @@ Feel free to customize this summary to fit your specific app and its features.
 ## Snapshots
 
 ![Alt Text](./public/Screenshot%202023-06-02%20003900.png)
+![Alt Text](./public/mobile.png)
